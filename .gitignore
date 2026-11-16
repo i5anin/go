@@ -1,0 +1,4 @@
+/tasks.jsonl
+*.exe
+/taskbox
+/coverage.out
